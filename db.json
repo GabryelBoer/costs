@@ -87,6 +87,17 @@
       "cost": 0,
       "services": [],
       "id": 8
+    },
+    {
+      "name": "fdfg",
+      "budget": "2333",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
     }
   ],
   "categories": [
