@@ -7,14 +7,8 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 5123,
+      "cost": 5000,
       "services": [
-        {
-          "name": "dfdf",
-          "cost": "123",
-          "description": "sdffd",
-          "id": "1d510cf1-de6b-4eb6-920d-cfb43383338f"
-        },
         {
           "name": "PHP",
           "cost": "5000",
