@@ -18,4 +18,4 @@ Necessita ser executado para funcionar o backend do projeto. Pode ser acessado n
 ## Mais
 
 Acesse o link do projeto hospedado no vercel.\
-Acesse ao lado: [Costs](https://costs-bay.vercel.app/)
+Acesse ao lado: [Costs](https://costs.gabryelboer.vercel.app/)
