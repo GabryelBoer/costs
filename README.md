@@ -17,5 +17,5 @@ Necessita ser executado para funcionar o backend do projeto. Pode ser acessado n
 
 ## Mais
 
-Acesse o link do projeto hospedado no github sem o backend.\
-Abra [Costs](https://gabryelboer.github.io/costs)
+Acesse o link do projeto hospedado no vercel.\
+Acesse ao lado: [Costs](https://costs-bay.vercel.app/)
